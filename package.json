@@ -1,0 +1,28 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "example messenger webhook https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/son1112/messenger-webhook.git"
+  },
+  "keywords": [
+    "webhooks",
+    "facebook",
+    "messenger"
+  ],
+  "author": "Anderson Reinkordt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/son1112/messenger-webhook/issues"
+  },
+  "homepage": "https://github.com/son1112/messenger-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
