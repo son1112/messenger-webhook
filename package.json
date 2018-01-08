@@ -23,6 +23,7 @@
   "homepage": "https://github.com/son1112/messenger-webhook#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
     "express": "^4.16.2"
   }
 }
